@@ -1,4 +1,4 @@
-# SRS
+# SRS-Master
 Student Resevation System
 ## To register the names of students (Student Affairs) as follows:
 ### student's name
